@@ -76,17 +76,13 @@ Here are some ideas to get you started:
 ### 🔗 访问连接
 
 - 博客：[maiceng.cn](https://maiceng.cn)
-- 随想：#迈层笔记
-- 邮箱：不用了
+- 随想：#迈层
+- 邮箱：@迈层
 
 ---
 
 <div align="center">
-  <sub>
-    “晨露不因短暂而失真，晚霞不因落幕而失色。”
-  </sub>
+  <sub>“晨露不因短暂而失真，晚霞不因落幕而失色。”</sub>
   <br />
-  <sub>
-    —— 迈层 · 时间的剖面
-  </sub>
+  <sub>—— 迈层 · 时间的剖面</sub>
 </div>
